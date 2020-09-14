@@ -1,0 +1,3 @@
+[submodule "weather-station"]
+	path = weather-station
+	url = git@github.com:darkonion/weather-station.git
