@@ -2,4 +2,5 @@
 	path = weather-station
 	url = git@github.com:darkonion/weather-station.git
 [submodule "weather-harvester"]
-    path = weather-harvester
+	path = weather-harvester
+	url = git@github.com:darkonion/weather-harvester.git
