@@ -1,0 +1,2 @@
+station:
+  cron: "0 */1 * * * MON-SAT"
